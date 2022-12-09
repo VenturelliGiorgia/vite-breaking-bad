@@ -9,7 +9,7 @@ export default {
     <nav>
         <div class="d-flex align-items-center m-3">
             <img src="" alt="">
-            <h1 class="text-white">Breaking Bad Api</h1>
+            <h1 class="text-white">Rick & Morty Api</h1>
         </div>
     </nav>
 </header>
